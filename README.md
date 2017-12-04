@@ -1,15 +1,15 @@
-python:
+project:
 --
 
 
 Use of Python and Pandas code to clean a dataset of Avengers characters deaths with the aim of making the data more useful for analysis.
 
-Descriptio:
+Description:
 --
 
 Use of Python and Pandas code to clean a dataset of Avengers characters deaths with the aim of making the data more useful for analysis.
 
-Author:
+Dataset:
 --
 Use of Python and Pandas code to clean a dataset of Avengers characters deaths with the aim of making the data more useful for analysis.
 
