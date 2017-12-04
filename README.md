@@ -13,7 +13,7 @@ Dataset:
 --
 Use of Python and Pandas code to clean a dataset of Avengers characters deaths with the aim of making the data more useful for analysis.
 
-Analysis:
+Motivation:
 --
 
 Use of Python and Pandas code to clean a dataset of Avengers characters deaths with the aim of making the data more useful for analysis.
